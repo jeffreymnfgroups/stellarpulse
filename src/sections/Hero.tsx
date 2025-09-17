@@ -1,4 +1,4 @@
-import { Element, Link as LinkScroll } from "react-scroll";
+import { Element } from "react-scroll";
 
 import { Button } from "../components/Button";
 import { site_links } from "../constants";
